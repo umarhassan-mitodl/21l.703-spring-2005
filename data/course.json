@@ -1,0 +1,60 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Intellectual History"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Drama"
+    ],
+    [
+      "Fine Arts",
+      "Performance Arts",
+      "Theater"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "6c42c2dd-5c60-83f9-752d-390f80ada4ed",
+  "instructors": {
+    "content": [
+      "4726f3b6-5bd5-5f81-098f-1766520978c4",
+      "5c890c9d-4ccb-c176-570d-921bde355cc7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2061fab9-bbc4-7674-3f39-885ea8faf114",
+    "website": "21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005"
+  },
+  "course_title": "Studies in Drama: Theater and Science in a Time of War",
+  "course_description": "This course explores the creation (and creativity) of the modern scientific and cultural world through study of western Europe in the 17th century, the age of Descartes and Newton, Shakespeare, Rembrandt and Moli\u00e8re. The class compares period thinking to present-day debates about the scientific method, art, religion, and society. This team-taught, interdisciplinary subject draws on a wide range of literary, dramatic, historical, and scientific texts and images, and involves theatrical experimentation as well as reading, writing, researching and conversing.\n",
+  "department_numbers": [
+    "21L",
+    "21M"
+  ],
+  "extra_course_numbers": "21M.714",
+  "primary_course_number": "21L.703",
+  "course_image_thumbnail": {
+    "content": "8ddb3178-a26d-02f2-c1ba-8e73f0f9fdc6",
+    "website": "21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005"
+  },
+  "learning_resource_types": [
+    "Projects with Examples"
+  ],
+  "site_uid": "da74e264-eebb-4c4e-bdc7-7bfc9d887ba7",
+  "site_short_id": "21l.703-spring-2005",
+  "site_url_path": "courses/21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005",
+  "title": "Course Metadata"
+}
