@@ -45,13 +45,13 @@ Brockett, Oscar G., and Franklin J. Hildy. *History of the Theater*. Boston, MA:
 
 Brome, Richard. *The Antipodes*.
 
-Browne, Thomas. {{% resource_link "ddfe1b6b-2f77-41f5-9577-211c6373befa" "*Hydriotaphia, or Urne Buriall*" %}}.
+Browne, Thomas. [*Hydriotaphia, or Urne Buriall*](http://penelope.uchicago.edu/hydrionoframes/hydrion.html).
 
 Butler, Martin. "The Condition of the Theatres in 1642." In *The Cambridge History of British Theatre.* Vol I, *Origins to 1660*. Edited by Jane Milling and Peter Thomson. New York, NY: Cambridge University Press, 2004. ISBN: 9780521650403.
 
 Butler, Martin. *Theatre and Crisis: 1632-1642*. New York, NY: Cambridge University Press, 1984, chapters 1-3. ISBN: 9780521246323.
 
-Carew, Thomas. "{{% resource_link "17f92e36-0c97-488f-97ae-aa1876386803" "To His Inconstant Mistress" %}}." (See a version of this text from Bartleby.)
+Carew, Thomas. "[To His Inconstant Mistress](http://www.bartleby.com/101/291.html)." (See a version of this text from Bartleby.)
 
 Cavendish, Margaret, Duchess of Newcastle. "A Dialogue Between the Body, and the Minde." In *Philosophicall Fancies*. 1653.
 
@@ -79,7 +79,7 @@ Harris, Ellen T. "Musical Declamation." In *Henry Purcell's Dido and Aeneas*. Ne
 
 Hawley, Judith. "Keep the Bunsens Burning." *The Guardian*, April 3, 2004.
 
-Herrick, Robert. "{{% resource_link "06c3eaca-070b-4df4-87db-bd60ddbafbdb" "Mrs. Eliz: Wheeler, Under the Name of the Lost Shepherdess" %}}."
+Herrick, Robert. "[Mrs. Eliz: Wheeler, Under the Name of the Lost Shepherdess](http://www.emule.com/poetry/?page=poem&poem=3086)."
 
 Hill, Christopher. *The Century of Revolution, 1603-1714*. New York, NY: W.W. Norton, 1982, appendices A-D. ISBN: 9780393300161.
 
@@ -97,13 +97,13 @@ Knutson, Roslyn L. "Working Playwrights, 1580-1642." In *The Cambridge History o
 
 Milling, Jane. "The Development of a Professional Theatre, 1540-1660." In *The Cambridge History of British Theatre Volume I: Origins to 1660*. Edited by Jane Milling and Peter Thomson. New York, NY: Cambridge University Press, 2004. ISBN: 9780521650403.
 
-Milton, John. "{{% resource_link "ae84c0a4-e637-4e17-a629-a79a0f5c1855" "On Shakespeare, 1630" %}}." (See a version of this text from Bartleby.)
+Milton, John. "[On Shakespeare, 1630](http://www.bartleby.com/105/130.html)." (See a version of this text from Bartleby.)
 
-———. {{% resource_link "27cad3c3-3613-42f0-843c-a9ba3bd0d8ed" "*Paradise Lost*" %}}. Book 1. (Download a version of this text from Project Gutenberg.)
+———. [*Paradise Lost*](http://www.gutenberg.org/etext/20). Book 1. (Download a version of this text from Project Gutenberg.)
 
 Morton, A. L. "Religion and Politics in the English Revolution." In *The World of the Ranters*. London, UK: Laurence and Wishart, 1970. ISBN: 9780853152200.
 
-Moulsworth, Martha. "{{% resource_link "a5b61823-3206-4faf-9336-11a2b7cf10b0" "The Memorandum of Martha Moulsworth, Widow" %}}."
+Moulsworth, Martha. "[The Memorandum of Martha Moulsworth, Widow](http://digital.library.upenn.edu/women/moulsworth/name/name.html)."
 
 Norbrook, David, ed. *The Penguin Book of Renaissance Verse*. New York, NY: Penguin, 1993, pp. 163-601: selections by Parker, Herrick, Marvell, Mure, Philips, Milton, Brome, Lovelace, Anonymous, and Wild. ISBN: 9780140423464.
 
@@ -129,7 +129,7 @@ Shapin, Steven. "The Philosopher and the Chicken: On the Dietetics of Disembodie
 
 Shapin, Steven. *A Social History of Truth: Civility and Science in Seventeenth-Century England*. Chicago, IL: University of Chicago Press, 1995, chapters 2, 3, and 4. ISBN: 9780226750194.
 
-Shirley, James. {{% resource_link "3199c39b-0866-41a5-8d08-80de2255f15f" "*The Cardinal*" %}}.
+Shirley, James. [*The Cardinal*](http://books.google.com/books?vid=OCLC03244913&id=HvjTKODBIIcC&pg=PA272&lpg=PA272&dq=james+shirley+cardinal+acted+at+the+private+house+Black&as_brr=1).
 
 Smuts, Malcom. "Rethinking the Political Context."
 
